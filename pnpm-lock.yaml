@@ -66,6 +66,9 @@ importers:
       eslint-plugin-check-file:
         specifier: ^2.8.0
         version: 2.8.0(eslint@9.23.0(jiti@2.4.2))
+      eslint-plugin-react-hooks:
+        specifier: ^5.2.0
+        version: 5.2.0(eslint@9.23.0(jiti@2.4.2))
       husky:
         specifier: ^9.1.7
         version: 9.1.7
