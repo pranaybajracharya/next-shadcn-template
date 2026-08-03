@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.6",
-    "@eslint/js": "^9.39.2",
+    "@eslint/js": "^9.39.5",
     "@tailwindcss/postcss": "^4.3.3",
     "@trivago/prettier-plugin-sort-imports": "^6.0.2",
     "@types/node": "^25.9.3",
